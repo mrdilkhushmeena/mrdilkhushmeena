@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dilkhush Meena 👋
 
-<!--
-**mrdilkhushmeena/mrdilkhushmeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software developer & Product Builder
+I build software around real business requirements — from product definition and workflow design to implementation, testing, deployment, and ongoing operation.
 
-Here are some ideas to get you started:
+### What I work on
+- Custom web apps
+- Dashboards
+- Internal systems
+- APIs
+- Data integrations
+- Workflow automation
+- Deployment & maintenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Work
+- VScanner Pro — Live NSE & MCX market scanner and analytics terminal
+- Jemo — Multi-role restaurant QR ordering, kitchen, and billing system
+- Chanakya — Indian-market portfolio intelligence and risk terminal
+- Netakit — Configurable poster-personalization SaaS
+
+### My Approach
+I focus on solving real-world business problems with practical, scalable, and user-friendly technology. From ideation to delivery, I like building products that are useful, measurable, and maintainable.
+
+### Connect
+- 🌐 Portfolio: https://dilkhushmeena.in
+- 📧 Email: dilkhushneemrot@gmail.com
+
+### Let's Build Something Meaningful
+If you're looking for someone who can turn an idea into a working product, I’d be happy to connect.
